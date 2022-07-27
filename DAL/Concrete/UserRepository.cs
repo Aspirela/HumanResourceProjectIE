@@ -21,6 +21,10 @@ namespace DAL.Concrete
             return user;
         }
 
+        public void test()
+        {
+
+        }
 
     }
 
